@@ -1,5 +1,5 @@
 
-# Flipkart Phones Under 30000 Dataset
+# Flipkart Phones Under 30,000 Dataset
 
 This dataset contains information about smartphones priced under 30,000 rupees available on Flipkart. The data was scraped using Python's Beautiful Soup and Requests libraries and stored in CSV format using the Pandas library.
 
